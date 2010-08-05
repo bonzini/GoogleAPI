@@ -1,5 +1,7 @@
 <package>
   <name>GoogleAPI</name>
+  <url>git://github.com/bonzini/GoogleAPI.git</url>
+
   <namespace>GoogleAPI</namespace>
   <prereq>GoogleAPI-Maps</prereq>
   <prereq>GoogleAPI-Iliad</prereq>
