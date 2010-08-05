@@ -1,0 +1,6 @@
+<package>
+  <name>GoogleAPI</name>
+  <namespace>GoogleAPI</namespace>
+  <prereq>GoogleAPI-Maps</prereq>
+  <prereq>GoogleAPI-Iliad</prereq>
+</package>

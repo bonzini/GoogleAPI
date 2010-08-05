@@ -1,0 +1,11 @@
+<package>
+  <name>GoogleAPI-Iliad</name>
+  <namespace>GoogleAPI</namespace>
+  <prereq>Iliad-Core</prereq>
+
+  <filein>IncrementalWidget.st</filein>
+  <filein>Maps.st</filein>
+
+  <file>IncrementalWidget.st</file>
+  <file>Maps.st</file>
+</package>

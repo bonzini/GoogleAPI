@@ -1,0 +1,5 @@
+Bindings to Google APIs for GNU Smalltalk and Iliad.
+
+Currently only the static map API is supported.
+
+Released under the AGPLv2 or later.  This will probably change, but not yet.

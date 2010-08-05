@@ -1,0 +1,12 @@
+<package>
+  <name>GoogleAPI-Maps</name>
+  <namespace>GoogleAPI</namespace>
+
+  <filein>Model.st</filein>
+  <filein>Static.st</filein>
+  <filein>Examples.st</filein>
+
+  <file>Model.st</file>
+  <file>Static.st</file>
+  <file>Examples.st</file>
+</package>
